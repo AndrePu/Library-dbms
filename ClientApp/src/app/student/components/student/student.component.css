@@ -1,0 +1,14 @@
+
+.table {
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.table-container {
+    width: 90%;
+}
